@@ -1,12 +1,12 @@
 Sialk starter sketches
 ======================
 
-Every folder in here is one sketch. Drop any of them onto the Sialk Stage window
+Every folder in here is one sketch. Drop any of them onto the Sialk Operator window
 and it becomes a layer — play music, and watch it move.
 
 Try this first:
 
-  1. Open Sialk Stage and play some music into your microphone, or route your
+  1. Open Sialk Operator and play some music into your microphone, or route your
      player's output to an input device.
   2. Drop glsl-bands onto the window.
   3. Drop glsl-raymarch on top of it, then drag its opacity bar.
@@ -27,5 +27,5 @@ The folders:
 
 Make your own: a folder with one sketch.glsl in it (a GLSL shader), or one
 sketch.js that declares setup() or draw() (a p5.js sketch). Drop it on the
-window the same way. The full story is at sialk.net/stage/docs — and everything
+window the same way. The full story is at sialk.net/operator/docs — and everything
 your sketch can read from the music is at sialk.net/contract.

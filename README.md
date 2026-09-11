@@ -1,19 +1,19 @@
-# Sialk Stage — releases
+# Sialk Operator — releases
 
-Downloads for [Sialk Stage](https://www.sialk.net/stage), the simple
+Downloads for [Sialk Operator](https://www.sialk.net/operator), the simple
 live-visuals application: pick a visual, it hears the room, and it runs on your
 stage tonight. It plays GLSL, p5 and Three.js today; Cables.gl, Rive and Spline
 are coming, in that order.
 
-**Get the beta, and how to open it:** https://www.sialk.net/stage/beta
+**Get the beta, and how to open it:** https://www.sialk.net/operator/beta
 
-**Every release, with what changed:** https://www.sialk.net/stage/releases
+**Every release, with what changed:** https://www.sialk.net/operator/releases
 
 This repository holds release files and nothing else. The application is not
 open source; the audio contract, the browser shim and the examples are
 published separately under MIT at
 [sialkhq/sialk-contract](https://github.com/sialkhq/sialk-contract) — the
-whole point of a contract is that people write against it. Sialk Stage is made
+whole point of a contract is that people write against it. Sialk Operator is made
 by [Sialk](https://www.sialk.net), London.
 
 ## Verify a download
